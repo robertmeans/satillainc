@@ -1,0 +1,7 @@
+*.sass-cache*
+node_modules
+.gitattributes
+.gitignore
+backup
+Used in Portfolio
+_psd
