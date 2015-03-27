@@ -1,0 +1,34 @@
+900 x 600
+--------------
+
+
+    <a onmouseover='this.style.cursor="pointer" ' onfocus='this.blur();' onclick="document.getElementById('PopUp505').style.display = 'block' "><img src="images/exterior505_thumb.jpg" width="200" height="133" border="0" class="galleryImages03"></a>
+
+	<div id='PopUp505' class="largeImages">
+    
+<div style='text-align: right;'>
+	<a onmouseover='this.style.cursor="pointer" ' style='font-size: 12px;' onfocus='this.blur();' onclick="document.getElementById('PopUp505').style.display = 'none' "><img src="images/closeImage.gif" border="0" width="150" height="30"></a>
+</div>    
+	<a onmouseover='this.style.cursor="pointer" ' onfocus='this.blur();' onclick="document.getElementById('PopUp505').style.display = 'none'; document.getElementById('PopUp504').style.display = 'block' "><img src="images/back.jpg" border="0" width="50" height="600" /></a><a onmouseover='this.style.cursor="pointer" ' onfocus='this.blur();' onclick="document.getElementById('PopUp505').style.display = 'none'; document.getElementById('PopUp506').style.display = 'block' "><img src="images/exterior505.jpg" border="0" width="900" height="600"></a><a onfocus='this.blur();' onclick="document.getElementById('PopUp505').style.display = 'none'; document.getElementById('PopUp506').style.display = 'block' " onmouseover='this.style.cursor="pointer" '><img src="images/forward.jpg" border="0" width="50" height="600" /></a><br /><img src="images/spacer.gif" border="0" width="50px" height="10px" />
+</div>
+
+
+
+
+
+
+
+600 x 900
+--------------
+
+
+
+    <a onmouseover='this.style.cursor="pointer" ' onfocus='this.blur();' onclick="document.getElementById('PopUp519').style.display = 'block' "><img src="images/exterior519_thumb.jpg" width="133" height="200" border="0" class="galleryImages01"></a>
+
+	<div id='PopUp519' class="largeImagesTall">
+    
+<div style='text-align: right;'>
+	<a style='font-size: 12px;' onfocus='this.blur();' onclick="document.getElementById('PopUp519').style.display = 'none' " onmouseover='this.style.cursor="pointer" '><img src="images/closeImage.gif" border="0" width="150" height="30"></a>
+</div>    
+	<a onmouseover='this.style.cursor="pointer" ' onfocus='this.blur();' onclick="document.getElementById('PopUp519').style.display = 'none'; document.getElementById('PopUp518').style.display = 'block' "><img src="images/back.jpg" width="50" height="600" border="0" class="lgImgArrows" /></a><a onmouseover='this.style.cursor="pointer" ' onfocus='this.blur();' onclick="document.getElementById('PopUp519').style.display = 'none'; document.getElementById('PopUp520').style.display = 'block' "><img src="images/exterior519.jpg" border="0" width="600" height="900"></a><a onfocus='this.blur();' onclick="document.getElementById('PopUp519').style.display = 'none'; document.getElementById('PopUp520').style.display = 'block' " onmouseover='this.style.cursor="pointer" '><img src="images/forward.jpg" width="50" height="600" border="0" class="lgImgArrows" /></a><br /><img src="images/spacer.gif" border="0" width="50px" height="10px" />
+</div>
